@@ -7,8 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1bL33BQlh-YNrddw9WQ7dFwszONrznhN-
 """
 
-# Shoe Online Shopping
-items = []  # List to store the selected shoes
+# SOLE SHOPPER PROJECT:
+
+items = []
 
 def main():
     name = input("Enter your name: ")
