@@ -180,7 +180,7 @@ def generate_bill():
         print("Your cart is empty. Nothing to bill.")
         return
 
-    print("\n1===== Bill =====/")
+    print("\n===== Bill =====/")
     total_cost = sum(item['price'] for item in items)
 
     for item in items:
