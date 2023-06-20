@@ -41,8 +41,6 @@ Before running the Sole Shopper project, ensure that you have the following:
 
 - Python (version 3 or above) installed on your system.
 
-**Note:** Please make sure that the `bank.csv` dataset file is available in the same directory as the `sole_shopper.py` file for the program to run successfully.
+![Image](file:///Users/ankityadav1600/Desktop/image.png)
 
----
 
-**Note:** The Sole Shopper project is a simulated application and does not involve actual monetary transactions.
