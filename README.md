@@ -41,6 +41,6 @@ Before running the Sole Shopper project, ensure that you have the following:
 
 - Python (version 3 or above) installed on your system.
 
-<img width="356" alt="image" src="https://github.com/Ankit160009/SOLE-SHOPPER-PROJECT/assets/136299987/a7dce9a4-5811-4331-bda2-1516202181d4">
+## <img width="356" alt="image" src="https://github.com/Ankit160009/SOLE-SHOPPER-PROJECT/assets/136299987/a7dce9a4-5811-4331-bda2-1516202181d4">
 
 
