@@ -13,7 +13,7 @@ The project consists of several functions that handle different aspects of the s
 
 The project utilizes lists and dictionaries to store the items in the cart, including their names and prices. It also incorporates input validation to ensure that the user enters valid information and makes appropriate selections.
 
-## Features:- 
+## Functionality:- 
 
 1. User Information:
    - Users are prompted to enter their name, phone number, age, and address.
